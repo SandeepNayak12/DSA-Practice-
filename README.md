@@ -11,4 +11,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/SandeepNayak12/Binary-Search/tree/master/0069-sqrtx) |
+| [0875-koko-eating-bananas](https://github.com/SandeepNayak12/Binary-Search/tree/master/0875-koko-eating-bananas) |
+## Array
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/SandeepNayak12/Binary-Search/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->

@@ -1,11 +1,16 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        # BF
         if len(s)!=len(t):
             return False
-        s= sorted(s)
-        t = sorted(t)
-        for i in range(len(s)):
-            if s[i]!=t[i]:
+        mp = {}
+        for char in s:
+            mp[char] = mp.get(char,0)+1
+        for char in t:
+            if char not in mp:
                 return False
+            else:
+                mp[char] = mp.get(char,0)-1
+                if mp[char]<0:
+                    return False
         return True
+        

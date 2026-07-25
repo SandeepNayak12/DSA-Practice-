@@ -7,8 +7,5 @@ class Solution:
             arr[l],arr[r] = arr[r],arr[l]
             l +=1
             r -=1
-        ans = ""
-        for word in arr:
-            ans+=word+" "
-        return ans.strip()
+        return " ".join(arr)
     

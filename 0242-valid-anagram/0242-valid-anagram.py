@@ -3,8 +3,8 @@ class Solution:
         # BF
         if len(s)!=len(t):
             return False
-        s= "".join(sorted(s))
-        t = "".join(sorted(t))
+        s= sorted(s)
+        t = sorted(t)
         for i in range(len(s)):
             if s[i]!=t[i]:
                 return False

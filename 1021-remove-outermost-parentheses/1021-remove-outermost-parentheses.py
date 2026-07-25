@@ -4,15 +4,12 @@ class Solution:
         result = ""
         for char in s:
             if char =='(':
-                if cnt ==0:
-                    cnt+=1
-                else:
-                    result+=char
-                    cnt+=1
+                if cnt > 0:
+                    result +=char
+                cnt+=1
             else:
                 cnt-=1
-                if cnt == 0:
-                    continue
-                else:
+                if cnt > 0:
                     result += char
+                    
         return result

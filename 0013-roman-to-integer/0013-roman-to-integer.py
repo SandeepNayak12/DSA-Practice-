@@ -10,16 +10,9 @@ class Solution:
             'M':1000
         }
         Sum = 0
-        i = 0
-        while i<len(s)-1:
-            if mp[s[i]]<mp[s[i+1]]:
-                Sum += mp[s[i+1]]-mp[s[i]]
-                i +=2
+        for i in range(len(s)):
+            if i<len(s)-1 and mp[s[i]]<mp[s[i+1]]:
+                Sum -=mp[s[i]]
             else:
-                Sum += mp[s[i]]
-                i+=1
-        if i == len(s) - 1:
-            Sum += mp[s[i]]
+                Sum+=mp[s[i]]
         return Sum
-                
-            

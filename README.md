@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/SandeepNayak12/Binary-Search/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SandeepNayak12/Binary-Search/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SandeepNayak12/Binary-Search/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SandeepNayak12/Binary-Search/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SandeepNayak12/Binary-Search/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/SandeepNayak12/Binary-Search/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SandeepNayak12/Binary-Search/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SandeepNayak12/Binary-Search/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/SandeepNayak12/Binary-Search/tree/master/0451-sort-characters-by-frequency) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SandeepNayak12/Binary-Search/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/SandeepNayak12/Binary-Search/tree/master/0451-sort-characters-by-frequency) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SandeepNayak12/Binary-Search/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |

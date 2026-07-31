@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/SandeepNayak12/Binary-Search/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/SandeepNayak12/Binary-Search/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/SandeepNayak12/Binary-Search/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SandeepNayak12/Binary-Search/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/SandeepNayak12/Binary-Search/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/SandeepNayak12/Binary-Search/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SandeepNayak12/Binary-Search/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SandeepNayak12/Binary-Search/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SandeepNayak12/Binary-Search/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/SandeepNayak12/Binary-Search/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/SandeepNayak12/Binary-Search/tree/master/1903-largest-odd-number-in-string) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SandeepNayak12/Binary-Search/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
 |  |
 | ------- |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/SandeepNayak12/Binary-Search/tree/master/1903-largest-odd-number-in-string) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SandeepNayak12/Binary-Search/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Trie
 |  |
 | ------- |
@@ -108,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/SandeepNayak12/Binary-Search/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/SandeepNayak12/Binary-Search/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SandeepNayak12/Binary-Search/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
 |  |
 | ------- |

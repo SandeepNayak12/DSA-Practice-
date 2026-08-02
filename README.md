@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SandeepNayak12/Binary-Search/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/SandeepNayak12/Binary-Search/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/SandeepNayak12/Binary-Search/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/SandeepNayak12/Binary-Search/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SandeepNayak12/Binary-Search/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/SandeepNayak12/Binary-Search/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/SandeepNayak12/Binary-Search/tree/master/0283-move-zeroes) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/SandeepNayak12/Binary-Search/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/SandeepNayak12/Binary-Search/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SandeepNayak12/Binary-Search/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/SandeepNayak12/Binary-Search/tree/master/0451-sort-characters-by-frequency) |

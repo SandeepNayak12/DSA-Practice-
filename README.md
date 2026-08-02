@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/SandeepNayak12/Binary-Search/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/SandeepNayak12/Binary-Search/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/SandeepNayak12/Binary-Search/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/SandeepNayak12/Binary-Search/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SandeepNayak12/Binary-Search/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/SandeepNayak12/Binary-Search/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/SandeepNayak12/Binary-Search/tree/master/0283-move-zeroes) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/SandeepNayak12/Binary-Search/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/SandeepNayak12/Binary-Search/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/SandeepNayak12/Binary-Search/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SandeepNayak12/Binary-Search/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/SandeepNayak12/Binary-Search/tree/master/0451-sort-characters-by-frequency) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SandeepNayak12/Binary-Search/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SandeepNayak12/Binary-Search/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/SandeepNayak12/Binary-Search/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/SandeepNayak12/Binary-Search/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SandeepNayak12/Binary-Search/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/SandeepNayak12/Binary-Search/tree/master/0151-reverse-words-in-a-string) |

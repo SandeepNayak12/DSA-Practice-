@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SandeepNayak12/Binary-Search/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/SandeepNayak12/Binary-Search/tree/master/0014-longest-common-prefix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SandeepNayak12/Binary-Search/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0283-move-zeroes](https://github.com/SandeepNayak12/Binary-Search/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SandeepNayak12/Binary-Search/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0875-koko-eating-bananas](https://github.com/SandeepNayak12/Binary-Search/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SandeepNayak12/Binary-Search/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/SandeepNayak12/Binary-Search/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/SandeepNayak12/Binary-Search/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/SandeepNayak12/Binary-Search/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/SandeepNayak12/Binary-Search/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/SandeepNayak12/Binary-Search/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |

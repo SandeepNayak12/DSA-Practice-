@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SandeepNayak12/Binary-Search/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/SandeepNayak12/Binary-Search/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/SandeepNayak12/Binary-Search/tree/master/0189-rotate-array) |
+| [0877-stone-game](https://github.com/SandeepNayak12/Binary-Search/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/SandeepNayak12/Binary-Search/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SandeepNayak12/Binary-Search/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SandeepNayak12/Binary-Search/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0875-koko-eating-bananas](https://github.com/SandeepNayak12/Binary-Search/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/SandeepNayak12/Binary-Search/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SandeepNayak12/Binary-Search/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SandeepNayak12/Binary-Search/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SandeepNayak12/Binary-Search/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/SandeepNayak12/Binary-Search/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/SandeepNayak12/Binary-Search/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SandeepNayak12/Binary-Search/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/SandeepNayak12/Binary-Search/tree/master/0877-stone-game) |
 ## Linked List
 |  |
 | ------- |
@@ -163,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SandeepNayak12/Binary-Search/tree/master/0238-product-of-array-except-self) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/SandeepNayak12/Binary-Search/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

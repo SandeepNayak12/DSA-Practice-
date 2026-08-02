@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SandeepNayak12/Binary-Search/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/SandeepNayak12/Binary-Search/tree/master/0014-longest-common-prefix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SandeepNayak12/Binary-Search/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SandeepNayak12/Binary-Search/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0875-koko-eating-bananas](https://github.com/SandeepNayak12/Binary-Search/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SandeepNayak12/Binary-Search/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SandeepNayak12/Binary-Search/tree/master/0005-longest-palindromic-substring) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SandeepNayak12/Binary-Search/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Linked List
 |  |
 | ------- |

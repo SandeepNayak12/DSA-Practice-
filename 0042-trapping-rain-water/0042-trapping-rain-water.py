@@ -18,6 +18,6 @@ class Solution:
         right = rightMax()
         Sum = 0
         for i in range(len(height)):
-            if height[i] < left[i] and height[i]< right[i]:
+            # if height[i] < left[i] and height[i]< right[i]:
                 Sum += min(left[i],right[i])-height[i]
         return Sum

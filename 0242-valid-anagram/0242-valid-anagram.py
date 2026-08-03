@@ -2,9 +2,14 @@ class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
         if len(s)!=len(t):
             return False
-        s = sorted(s)
-        t = sorted(t)
-        for i in range(len(s)):
-            if s[i]!=t[i]:
+        mp = {}
+        for ch in s:
+            mp[ch] = mp.get(ch,0)+1
+        for ch in t:
+            if ch not in mp:
                 return False
+            else:
+                mp[ch] = mp.get(ch)-1
+                if mp[ch]<0:
+                    return False
         return True

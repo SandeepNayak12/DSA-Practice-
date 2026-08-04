@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/SandeepNayak12/Binary-Search/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/SandeepNayak12/Binary-Search/tree/master/0278-first-bad-version) |
 | [0875-koko-eating-bananas](https://github.com/SandeepNayak12/Binary-Search/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SandeepNayak12/Binary-Search/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SandeepNayak12/Binary-Search/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -184,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SandeepNayak12/Binary-Search/tree/master/0042-trapping-rain-water) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/SandeepNayak12/Binary-Search/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->

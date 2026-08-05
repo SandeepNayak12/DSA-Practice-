@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SandeepNayak12/Binary-Search/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/SandeepNayak12/Binary-Search/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/SandeepNayak12/Binary-Search/tree/master/0189-rotate-array) |
+| [0412-fizz-buzz](https://github.com/SandeepNayak12/Binary-Search/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/SandeepNayak12/Binary-Search/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/SandeepNayak12/Binary-Search/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/SandeepNayak12/Binary-Search/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SandeepNayak12/Binary-Search/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/SandeepNayak12/Binary-Search/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/SandeepNayak12/Binary-Search/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/SandeepNayak12/Binary-Search/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/SandeepNayak12/Binary-Search/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/SandeepNayak12/Binary-Search/tree/master/0796-rotate-string) |
@@ -200,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/SandeepNayak12/Binary-Search/tree/master/0389-find-the-difference) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/SandeepNayak12/Binary-Search/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->

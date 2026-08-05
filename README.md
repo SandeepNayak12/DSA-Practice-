@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/SandeepNayak12/Binary-Search/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SandeepNayak12/Binary-Search/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/SandeepNayak12/Binary-Search/tree/master/0451-sort-characters-by-frequency) |
+| [0771-jewels-and-stones](https://github.com/SandeepNayak12/Binary-Search/tree/master/0771-jewels-and-stones) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/SandeepNayak12/Binary-Search/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SandeepNayak12/Binary-Search/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/SandeepNayak12/Binary-Search/tree/master/3731-find-missing-elements) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SandeepNayak12/Binary-Search/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/SandeepNayak12/Binary-Search/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/SandeepNayak12/Binary-Search/tree/master/0451-sort-characters-by-frequency) |
+| [0771-jewels-and-stones](https://github.com/SandeepNayak12/Binary-Search/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/SandeepNayak12/Binary-Search/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/SandeepNayak12/Binary-Search/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SandeepNayak12/Binary-Search/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |

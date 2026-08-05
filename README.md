@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/SandeepNayak12/Binary-Search/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/SandeepNayak12/Binary-Search/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SandeepNayak12/Binary-Search/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/SandeepNayak12/Binary-Search/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SandeepNayak12/Binary-Search/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/SandeepNayak12/Binary-Search/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/SandeepNayak12/Binary-Search/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/SandeepNayak12/Binary-Search/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/SandeepNayak12/Binary-Search/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/SandeepNayak12/Binary-Search/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/SandeepNayak12/Binary-Search/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SandeepNayak12/Binary-Search/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/SandeepNayak12/Binary-Search/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SandeepNayak12/Binary-Search/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/SandeepNayak12/Binary-Search/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/SandeepNayak12/Binary-Search/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SandeepNayak12/Binary-Search/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/SandeepNayak12/Binary-Search/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/SandeepNayak12/Binary-Search/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/SandeepNayak12/Binary-Search/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/SandeepNayak12/Binary-Search/tree/master/1021-remove-outermost-parentheses) |
@@ -191,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/SandeepNayak12/Binary-Search/tree/master/0278-first-bad-version) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/SandeepNayak12/Binary-Search/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->

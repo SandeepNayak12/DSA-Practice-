@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/SandeepNayak12/Binary-Search/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/SandeepNayak12/Binary-Search/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/SandeepNayak12/Binary-Search/tree/master/1903-largest-odd-number-in-string) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/SandeepNayak12/Binary-Search/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -218,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/SandeepNayak12/Binary-Search/tree/master/0287-find-the-duplicate-number) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/SandeepNayak12/Binary-Search/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->

@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/SandeepNayak12/Binary-Search/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SandeepNayak12/Binary-Search/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SandeepNayak12/Binary-Search/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/SandeepNayak12/Binary-Search/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SandeepNayak12/Binary-Search/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SandeepNayak12/Binary-Search/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/SandeepNayak12/Binary-Search/tree/master/1539-kth-missing-positive-number) |

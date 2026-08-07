@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SandeepNayak12/Binary-Search/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SandeepNayak12/Binary-Search/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/SandeepNayak12/Binary-Search/tree/master/1539-kth-missing-positive-number) |
+| [1929-concatenation-of-array](https://github.com/SandeepNayak12/Binary-Search/tree/master/1929-concatenation-of-array) |
 | [3731-find-missing-elements](https://github.com/SandeepNayak12/Binary-Search/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/SandeepNayak12/Binary-Search/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/SandeepNayak12/Binary-Search/tree/master/1929-concatenation-of-array) |
 ## Pigeonhole Principle
 |  |
 | ------- |

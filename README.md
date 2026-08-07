@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SandeepNayak12/Binary-Search/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SandeepNayak12/Binary-Search/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/SandeepNayak12/Binary-Search/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/SandeepNayak12/Binary-Search/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/SandeepNayak12/Binary-Search/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/SandeepNayak12/Binary-Search/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SandeepNayak12/Binary-Search/tree/master/0287-find-the-duplicate-number) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/SandeepNayak12/Binary-Search/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SandeepNayak12/Binary-Search/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/SandeepNayak12/Binary-Search/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/SandeepNayak12/Binary-Search/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SandeepNayak12/Binary-Search/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/SandeepNayak12/Binary-Search/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SandeepNayak12/Binary-Search/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/SandeepNayak12/Binary-Search/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/SandeepNayak12/Binary-Search/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/SandeepNayak12/Binary-Search/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SandeepNayak12/Binary-Search/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/SandeepNayak12/Binary-Search/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SandeepNayak12/Binary-Search/tree/master/0442-find-all-duplicates-in-an-array) |

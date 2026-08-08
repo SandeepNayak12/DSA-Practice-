@@ -229,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SandeepNayak12/Binary-Search/tree/master/3345-smallest-divisible-digit-product-i) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/SandeepNayak12/Binary-Search/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->

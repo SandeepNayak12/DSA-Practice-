@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SandeepNayak12/Binary-Search/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SandeepNayak12/Binary-Search/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SandeepNayak12/Binary-Search/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/SandeepNayak12/Binary-Search/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/SandeepNayak12/Binary-Search/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/SandeepNayak12/Binary-Search/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/SandeepNayak12/Binary-Search/tree/master/0877-stone-game) |

@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/SandeepNayak12/Binary-Search/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/SandeepNayak12/Binary-Search/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/SandeepNayak12/Binary-Search/tree/master/1757-recyclable-and-low-fat-products) |
+| [1873-calculate-special-bonus](https://github.com/SandeepNayak12/Binary-Search/tree/master/1873-calculate-special-bonus) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/SandeepNayak12/Binary-Search/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Union-Find
 |  |

@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/SandeepNayak12/Binary-Search/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SandeepNayak12/Binary-Search/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/SandeepNayak12/Binary-Search/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/SandeepNayak12/Binary-Search/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SandeepNayak12/Binary-Search/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/SandeepNayak12/Binary-Search/tree/master/1539-kth-missing-positive-number) |
 | [1929-concatenation-of-array](https://github.com/SandeepNayak12/Binary-Search/tree/master/1929-concatenation-of-array) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SandeepNayak12/Binary-Search/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/SandeepNayak12/Binary-Search/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/SandeepNayak12/Binary-Search/tree/master/1480-running-sum-of-1d-array) |
 ## Game Theory
 |  |
 | ------- |
